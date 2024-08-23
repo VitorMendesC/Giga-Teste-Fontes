@@ -1,0 +1,24 @@
+Circuit: * D:\EE\Semestre 8\Circuitos integrados lineares\Projeto II\LTS\carga.asc
+
+WARNING: Node RESET is floating.
+
+WARNING: Less than two connections to node RESET.  This node is used by S1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jan 21 20:21:49 2024
+Total elapsed time: 0.246 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 64381
+traniter = 64376
+tranpoints = 28923
+accept = 17381
+rejected = 11542
+matrix size = 16
+fillins = 0
+solver = Normal
+Matrix Compiler1:      34 opcodes  0.1/[0.1]/0.5
+Matrix Compiler2: 1008 bytes object code size  0.1/0.1/[0.1]
+
