@@ -39,6 +39,8 @@ Figura 4 - Simulação do comparador de janela.
 
 ![](images/comp.png)
 
+<br/><br/><br/>
+
 ## Detector de ripple
 O circuito responsável por identificar se o ripple atende os requisitos é exibido pela Figura 5, novamente temos um comparador seguido de um segurador, porém o sinal de entrada passa por um capacitor de baixa impedância, permitindo a passagem somente do sinal AC.
 
@@ -55,6 +57,8 @@ Figura 6 - Simulação do detector de ripple.
 </p>
 
 ![](images/ripple.png)
+
+<br/><br/><br/>
 
 ## Relatório final
 Neste README foram abordados somente os tópicos principais do projeto, o projeto completo que inclui a escolha e dimensionamento de componentes, demais circuitos aqui não abordados e outras simulações pode ser visto <a href="Relatorio_final.pdf" class="image fit">aqui</a>.
